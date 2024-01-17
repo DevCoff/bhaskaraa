@@ -1,4 +1,4 @@
-'use strict';
+
 
 let button = document.getElementById('calcular');
 let button_limpar = document.getElementById('limpar');
